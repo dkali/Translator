@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wtMAr+2aInJ4acslxUUwG8mLuWJjvZnRFVn+j2mJDEa7dwAr9QyItoPxOsQJfr3XYJkWs0g4QduYo0+fkFyu0A==",
+  "success": true,
+  "projectFilePath": "/Users/dkalinnikov/git/Translator/Translator.csproj",
+  "expectedPackageFiles": [
+    "/Users/dkalinnikov/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/dkalinnikov/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/dkalinnikov/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/dkalinnikov/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/dkalinnikov/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/dkalinnikov/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
