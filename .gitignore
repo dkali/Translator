@@ -1,0 +1,6 @@
+# build folders
+bin
+obj
+
+# Mac
+.DS_Store
