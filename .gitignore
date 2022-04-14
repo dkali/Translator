@@ -2,5 +2,8 @@
 bin
 obj
 
+# ide
+.vscode
+
 # Mac
 .DS_Store
