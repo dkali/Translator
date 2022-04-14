@@ -4,6 +4,7 @@ obj
 
 # ide
 .vscode
+.vs
 
 # Mac
 .DS_Store
